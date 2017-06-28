@@ -2,14 +2,12 @@
 AndrroidResource
 
 
-請看Android Test資料夾
-
-註解
-
+註釋
 1.JUnit : 使用Junit 做測試
----
-@RunWith(AndroidJUnit4.class)
----
+
+```
+  @RunWith(AndroidJUnit4.class)
+```
 
 
 
